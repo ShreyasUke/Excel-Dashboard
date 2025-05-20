@@ -9,3 +9,5 @@ This repository contains an Excel dashboard for analyzing sales data of a coffee
 
 📊 Built using Excel Pivot Tables and Charts.
 
+##Excel-Dashboard
+![Coffee+Shop+Sales+DashBoard](https://github.com/user-attachments/assets/25241b24-1cea-4b00-ae7d-95df77dc86d9)
